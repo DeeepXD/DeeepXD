@@ -63,8 +63,8 @@ $ echo $MOTTO
 
 <p align="center">
   <a href="https://github.com/DeeepXD">GitHub</a> ·
-  <a href="https://discord.com/users/YOUR_USER_ID">Discord</a> ·
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://discord.com/users/965202439038992404">Discord</a> ·
+  <a href="mailto:a.aljohani@proton.me">Email</a>
 </p>
 
 <p align="center">
