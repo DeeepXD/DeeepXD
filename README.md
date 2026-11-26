@@ -44,7 +44,6 @@ I'm passionate about software engineering, cybersecurity, and reverse engineerin
 
 ---
 
----
 
 <p align="center">
   <a href="https://github.com/DeeepXD">GitHub</a> ·
