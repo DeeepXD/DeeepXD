@@ -1,52 +1,72 @@
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="DeepXD — developer / security / systems" />
+</p>
 
-<h1 align="center">Hey, I'm DeepXD 👋</h1>
+<p align="center">
+  <img src="./assets/typing.gif" width="100%" alt="Full-stack development, reverse engineering, security research, and automation" />
+</p>
 
-I'm a full-stack developer and student from Saudi Arabia.
-I'm passionate about software engineering, cybersecurity, and reverse engineering. I enjoy building tools, exploring software internals, and making things faster, smarter, and more efficient.
+I'm **DeepXD**, a full-stack developer and student from Saudi Arabia. I enjoy building software, taking it apart, and figuring out how it works under the hood. I spend a lot of my time experimenting with security, automation, and performance.
 
-### Work
+### ~/work
 
-- **CyberGuard** - A Windows cybersecurity auditing tool focused on system security, misconfigurations, and threat detection.
-- **Security Research** - Exploring software internals, binary analysis, and responsible vulnerability disclosure.
-- **Automation** - Building performance-focused tools and experimenting with concurrent systems.
+- **CyberGuard** — A Windows security auditing tool focused on identifying insecure configurations and system security risks.
+- **Security research** — Binary analysis, software internals, and responsible vulnerability disclosure.
+- **Automation** — Building efficient tools and experimenting with concurrent systems.
 
-### Stack
+### ~/about
+
+```text
+$ whoami
+  deepxd
+
+$ cat interests.txt
+  full-stack development
+  cybersecurity & reverse engineering
+  automation & systems programming
+
+$ echo $MOTTO
+  Build it. Break it. Understand it. Improve it.
+```
+
+### ~/stack
 
 **Languages**
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![AutoHotkey](https://img.shields.io/badge/AutoHotkey_v2-334455?style=flat&logo=autohotkey&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-594478?style=flat&logoColor=white&logo=rust)
+![Python](https://img.shields.io/badge/Python-594478?style=flat&logoColor=white&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-594478?style=flat&logoColor=white&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-594478?style=flat&logoColor=white&logo=javascript)
+![AutoHotkey v2](https://img.shields.io/badge/AutoHotkey_v2-594478?style=flat&logoColor=white&logo=autohotkey)
 
-**Development**
+**Full-stack**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![React](https://img.shields.io/badge/React-68508a?style=flat&logoColor=white&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-68508a?style=flat&logoColor=white&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-68508a?style=flat&logoColor=white&logo=nodedotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-68508a?style=flat&logoColor=white&logo=tailwindcss)
+![Supabase](https://img.shields.io/badge/Supabase-68508a?style=flat&logoColor=white&logo=supabase)
 
-**Security & Reverse Engineering**
+**Security & low-level**
 
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-242424?style=flat)
-![Ghidra](https://img.shields.io/badge/Ghidra-BE2026?style=flat)
-![WinDbg](https://img.shields.io/badge/WinDbg-0078D4?style=flat)
-![x86-64](https://img.shields.io/badge/x86--64-444444?style=flat)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-55416f?style=flat&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-55416f?style=flat&logoColor=white)
+![WinDbg](https://img.shields.io/badge/WinDbg-55416f?style=flat&logoColor=white)
+![x86-64](https://img.shields.io/badge/x86--64-55416f?style=flat&logoColor=white)
 
-**Infrastructure & Tools**
+**Infrastructure**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
----
-
+![Linux](https://img.shields.io/badge/Linux-4e426d?style=flat&logoColor=white&logo=linux)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-4e426d?style=flat&logoColor=white&logo=archlinux)
+![Git](https://img.shields.io/badge/Git-4e426d?style=flat&logoColor=white&logo=git)
+![Vercel](https://img.shields.io/badge/Vercel-4e426d?style=flat&logoColor=white&logo=vercel)
 
 <p align="center">
   <a href="https://github.com/DeeepXD">GitHub</a> ·
-  <a href="https://discord.com/users/965202439038992404">Discord</a> ·
-  <a href="mailto:a.aljohani@proton.me">Email</a>
+  <a href="https://discord.com/users/YOUR_USER_ID">Discord</a> ·
+  <a href="mailto:YOUR_EMAIL">Email</a>
+</p>
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="End of file — always curious" />
 </p>
